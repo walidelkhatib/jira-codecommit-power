@@ -21,7 +21,7 @@ Automatically fetches review comments, checks out PR branch, implements fixes, c
 
 ### PR Creation Workflow (57 seconds)
 
-https://github.com/user-attachments/assets/your-video-id-here
+https://github.com/user-attachments/assets/cb5d4ba7-0840-4031-97f4-6234fc564eeb
 
 ### Key Features
 
