@@ -113,14 +113,6 @@ Edit `~/.kiro/settings/mcp.json` and add your credentials:
 
 **Important:** Update `JIRA_URL`, `JIRA_USERNAME`, `JIRA_API_TOKEN`, and `AWS_PROFILE` with your actual values.
 
-## Demo
-
-### PR Creation Workflow (57 seconds)
-
-https://github.com/user-attachments/assets/your-video-id-here
-
-*Watch Kiro autonomously implement a Jira ticket, create a feature branch, commit code, and create a pull request in CodeCommit - all from a single command.*
-
 ## Usage Examples
 
 All three workflows use a combination of:
