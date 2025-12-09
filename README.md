@@ -19,7 +19,7 @@ Automatically fetches review comments, checks out PR branch, implements fixes, c
 
 ## Demo
 
-### PR Creation Workflow (57 seconds)
+### PR Creation Workflow
 
 https://github.com/user-attachments/assets/cb5d4ba7-0840-4031-97f4-6234fc564eeb
 
