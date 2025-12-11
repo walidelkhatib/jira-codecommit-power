@@ -2,8 +2,8 @@
 name: "jira-codecommit"
 displayName: "Jira-CodeCommit Development"
 description: "Automate development workflows from Jira tickets to CodeCommit pull requests"
-author: "Walid El Khatib"
 keywords: ["jira", "codecommit", "git", "pr", "pull request", "ticket", "issue", "patch", "review", "implement"]
+author: "Walid El Khatib"
 ---
 
 # Jira-CodeCommit Development Power
