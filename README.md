@@ -35,19 +35,8 @@ https://github.com/user-attachments/assets/cb5d4ba7-0840-4031-97f4-6234fc564eeb
 
 ### Option 1: GitHub Repository URL (Recommended)
 
-1. **In Kiro**: Go to Powers → Available Powers → Manage Repos → Add Repository
-2. **Add URL**: `https://github.com/walidelkhatib/jira-codecommit-power.git`
-3. **Install**: Select "jira-codecommit" from the available powers list
-
-### Option 2: Download ZIP for Local Installation
-
-1. **Download ZIP**: Go to https://github.com/walidelkhatib/jira-codecommit-power → Code → Download ZIP
-2. **Extract**: Unzip the downloaded file
-3. **In Kiro**: Go to Powers → Available Powers → Manage Repos → Add Repository
-4. **Select**: "Local Directory" and choose the extracted folder
-5. **Install**: Select "jira-codecommit" from the available powers list
-
-**⚠️ Important**: Use ZIP download, not `git clone`, for local installation to avoid git metadata conflicts.
+1. **In Kiro**: Go to Powers → Add Custom Power → Import power from GitHub
+2. **Add URL**: `https://github.com/walidelkhatib/jira-codecommit-power/tree/main/jira-codecommit`
 
 ## Prerequisites
 
@@ -57,7 +46,6 @@ https://github.com/user-attachments/assets/cb5d4ba7-0840-4031-97f4-6234fc564eeb
 - **git-remote-codecommit** - Installed (`pip install git-remote-codecommit`)
 - **AWS CLI** - Configured with a profile that has CodeCommit permissions
 - **Jira API token** - Generated at https://id.atlassian.com/manage-profile/security/api-tokens
-
 
 ### Configure Trusted Commands (Recommended)
 
