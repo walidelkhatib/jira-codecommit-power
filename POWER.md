@@ -73,7 +73,7 @@ The power provides three automated workflows triggered by simple commands, handl
 5. Commits changes with conventional commit messages
 6. Pushes branch to CodeCommit
 7. Creates pull request with ticket details
-8. Updates Jira ticket with PR link and comment
+8. Updates Jira ticket with PR link and transitions to "In Review"
 
 **Example:** `"Jira MFLP-10"`
 
@@ -101,7 +101,8 @@ The power provides three automated workflows triggered by simple commands, handl
 4. Commits and pushes changes
 5. Posts update comment on PR
 6. Adds "kiro" label to Jira ticket
-7. Posts update on Jira ticket
+7. Transitions ticket to "In Review" status
+8. Posts update on Jira ticket
 
 **Example:** `"Patch CodeCommit PR 5"`
 

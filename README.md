@@ -31,6 +31,24 @@ https://github.com/user-attachments/assets/cb5d4ba7-0840-4031-97f4-6234fc564eeb
 
 - **Complete Audit Trail** - All actions tracked in both Jira and CodeCommit with clear timestamps
 
+## Installation
+
+### Option 1: GitHub Repository URL (Recommended)
+
+1. **In Kiro**: Go to Powers → Available Powers → Manage Repos → Add Repository
+2. **Add URL**: `https://github.com/walidelkhatib/jira-codecommit-power.git`
+3. **Install**: Select "jira-codecommit" from the available powers list
+
+### Option 2: Download ZIP for Local Installation
+
+1. **Download ZIP**: Go to https://github.com/walidelkhatib/jira-codecommit-power → Code → Download ZIP
+2. **Extract**: Unzip the downloaded file
+3. **In Kiro**: Go to Powers → Available Powers → Manage Repos → Add Repository
+4. **Select**: "Local Directory" and choose the extracted folder
+5. **Install**: Select "jira-codecommit" from the available powers list
+
+**⚠️ Important**: Use ZIP download, not `git clone`, for local installation to avoid git metadata conflicts.
+
 ## Prerequisites
 
 ### Before using this power, ensure you have:
